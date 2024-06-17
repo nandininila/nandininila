@@ -4,43 +4,34 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.sukanta.xyz">Sukanta Das</a></b>
+                <b><a target="_blank" href="https://nandinidas.netlify.app/">Nandini Das</a></b>
         </samp>
 </h3>
 <br/>
 
 <p align="center">
- <a href="[ttps://www.sukanta.xyz" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Sukanta_das" />
+ <a href="https://nandinidas.netlify.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Nandini Das" />
  </a>
- <a href="https://www.linkedin.com/in/sukanta-das221/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sukanta_das"/>
+ <a href="https://www.linkedin.com/in/nandinidas1/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nandini Das"/>
  </a>
- <a href="https://dev.to/cristain" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Sukanta_das" />
- </a>
- <a href="https://twitter.com/igCristain" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/igcristain/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Sukanta_das" />
+ <a href="https://facebook.com/nandini.web" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Nandini Das"  />
  </a> 
- <a href="https://facebook.com/cristain.333" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Sukanta_das"  />
-  </a> 
 </p>
 <br />
 
-[![](https://visitcount.itsvg.in/api?id=CrisTain333&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nandininila&icon=5&color=12)](https://visitcount.itsvg.in)
 ![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
-![living](https://img.shields.io/badge/living-Chattogram-blue)
+![living](https://img.shields.io/badge/living-Dhaka-blue)
 ![age](https://img.shields.io/badge/Age-20-blueviolet)
-[![Github](https://img.shields.io/github/followers/CrisTain333?label=Follow&style=social)](https://github.com/CrisTain333)
+[![Github](https://img.shields.io/github/followers/nandininila?label=Follow&style=social)](https://github.com/nandininila)
 
 <h1> About Me </h1>
 🌱 I’m currently learning Aws , Docker , Load balancing.   <br>  <br> 
-👨‍💻 All of my projects are available at <a href='https://www.sukanta.xyz' >Sukanta Das</a>  <br><br> 📧  Reach me anytime <a
-    href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener">sukanta.das4104@gmail.com</a> <br>
+👨‍💻 All of my projects are available at <a href='https://www.sukanta.xyz' >Nandini Das</a>  <br><br> 📧  Reach me anytime <a
+    href="mailto:nandini.dev@gmail.com" target="_blank" rel="noopener">nandini.dev@gmail.com</a> <br>
 
 
 <h1 align="center"><img
@@ -78,21 +69,21 @@
 <table>
     <h1 align="center">Github Stats</h1>
     <p align="center">
-  <a  align="center" href="https://github.com/Cristain333">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristain333&theme=radical" alt="Cristain's GitHub Contribution"/>
+  <a  align="center" href="https://github.com/nandininila">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandininila&theme=radical" alt="nandininila's GitHub Contribution"/>
   </a>
 </p>
     <tr>
         <td>
-                 <a href="https://github.com/cristain333"><img alt="Al Cristain's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Cristain333&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
+                 <a href="https://github.com/nandininila"><img alt="Al Cristain's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nandininila&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
         </td> <!-- &hide=html -->
-        <td><img alt="Cristain :: Top Langs]"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristain333&layout=donut&theme=radical&count_private=true&hide=html,css,scss,python">
+        <td><img alt="Nandini's :: Top Langs]"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandininila&layout=donut&theme=radical&count_private=true&hide=html,css,scss,python">
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center"><img align="center"
-                src="https://github-readme-streak-stats.herokuapp.com?user=CrisTain333&theme=radical&hide_border=true">
+                src="https://github-readme-streak-stats.herokuapp.com?user=nandininila&theme=radical&hide_border=true">
         </td>
     </tr>
 </table>
