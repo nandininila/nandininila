@@ -23,7 +23,7 @@
 <br />
 
 [![](https://visitcount.itsvg.in/api?id=nandininila&icon=5&color=12)](https://visitcount.itsvg.in)
-![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
+![focus](https://img.shields.io/badge/focus-Full%20Stack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-blue)
 ![age](https://img.shields.io/badge/Age-20-blueviolet)
 [![Github](https://img.shields.io/github/followers/nandininila?label=Follow&style=social)](https://github.com/nandininila)
