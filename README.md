@@ -29,7 +29,7 @@
 [![Github](https://img.shields.io/github/followers/nandininila?label=Follow&style=social)](https://github.com/nandininila)
 
 <h1> About Me </h1>
-🌱 I’m currently learning React Native, Aws , Docker , Load balancing.   <br>  <br> 
+🌱 I’m currently learning React Native , Aws , Docker , Load balancing.   <br>  <br> 
 👨‍💻 All of my projects are available at <a href='https://nandinidas.netlify.app/' >Nandini Das</a>  <br><br> 📧  Reach me anytime <a
     href="mailto:nandini.dev@gmail.com" target="_blank" rel="noopener">nandini.dev@gmail.com</a> <br>
 
